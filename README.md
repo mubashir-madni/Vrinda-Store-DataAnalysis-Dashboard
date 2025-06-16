@@ -70,4 +70,4 @@ Vrinda Store should focus marketing efforts on **adult women (30–49 years old)
 
 ---
 
-Created by **Mubashir Madni**
+Created by <a href="https://github.com/mubashir-madni">**Mubashir Madni**</a>
