@@ -17,7 +17,6 @@ Vrinda Store aimed to generate an annual sales report for 2022 to better underst
 - 🧠 What’s the relationship between age and gender based on order volume?
 - 🛒 Which sales channel contributes the most?
 
-> ❌ Skipped: Order status & highest-selling category (not covered)
 
 ---
 
